@@ -1,4 +1,6 @@
 # Project Summary: CYC Personal Landing Page
+![Project Preview](image.png)
+
 **Date:** February 25, 2026
 **User:** CYC
 **Live URL:** [https://yeeching717.github.io/DRL_HW1/](https://yeeching717.github.io/DRL_HW1/)
