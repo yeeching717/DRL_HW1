@@ -1,6 +1,8 @@
 # Project Summary: CYC Personal Landing Page
 **Date:** February 25, 2026
 **User:** CYC
+**Live URL:** [https://yeeching717.github.io/DRL_HW1/](https://yeeching717.github.io/DRL_HW1/)
+
 
 ## 1. Development Overview
 Created a premium, single-page personal website featuring a modern design and real-time functionality.
